@@ -30,18 +30,23 @@ Spam Guardian is a machine learning-based web application developed using Stream
 
 
 ⚙️ Installation & Setup
+
 Follow the steps below to set up and run the project locally:
-•	• Clone the Repository:
+1• Clone the Repository:
 git clone https://github.com/your-username/sms-spam-detector.git
-•	• Navigate to the Project Directory:
+
+2• Navigate to the Project Directory:
 cd sms-spam-detector
-•	• (Optional) Create a Virtual Environment:
+
+3• (Optional) Create a Virtual Environment:
 python -m venv venv
 source venv/bin/activate  # macOS/Linux
 venv\Scripts\activate  # Windows
-•	• Install Dependencies:
+
+4• Install Dependencies:
 pip install -r requirements.txt
-•	• Run the Streamlit App:
+
+5• Run the Streamlit App:
 streamlit run Sms-app.py
 
 🧾 Dataset
